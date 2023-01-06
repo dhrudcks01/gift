@@ -50,7 +50,7 @@ img {
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto ;
-    grid-template-rows: 720px 600px ;
+    grid-template-rows: auto auto ;
     padding: 5%;
 }
 
